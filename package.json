@@ -1,5 +1,5 @@
 {
-  "name": "kalbe-library-javascript",
+  "name": "@emir-haikal/test-library-emir",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -13,5 +13,8 @@
   "main": "dist/index.js",
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/emir-haikal"
+  }
 }
